@@ -1,5 +1,7 @@
 **##JOHN EVANS OKYERE**
+
 Data Analyst | Python | SQL | Excel | PowerBI | 
+
 📊 About Me
 I am a dedicated data analyst with a strong proficiency in Python, SQL, Excel, PowerBI, and a current focus on mastering Google Data Analytics. My passion lies in turning raw data into meaningful insights to drive informed decision-making. Holding certificates in "Managing Big Data with MySQL" - An online non-credit course authorized by Duke University and offered 
 through Coursera and "Foundation of Data Science: K-Means Clustering in Python," - An online non-credit course authorized by University of London, 
