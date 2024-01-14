@@ -23,17 +23,21 @@ Tools: Jupyter Notebooks, Excel
 
 🌐 Projects
 
-[Titanic-Data-Analysis]
+1. [Titanic-Data-Analysis]
 
 Description: [The Titanic Data Analysis project aims to uncover insights into the demographics and characteristics of passengers aboard the Titanic. The analysis covers aspects such as survival rates, passenger classes, gender distribution, and also predicted the survival rate of all passengers on board.]
-Technologies: [Python]
-[https://github.com/JohnEvansOkyere/Titanic-Data-Analysis]
 
-[Data Professional Survey Breakdown - Power BI Visualization]
+Technologies: [Python]
+
+GitHub Link:[https://github.com/JohnEvansOkyere/Titanic-Data-Analysis]
+
+2. [Data Professional Survey Breakdown - Power BI Visualization]
 
 Description: [ "Data Professional Survey Breakdown" Power BI project! This visualization project provides insights into the responses gathered from data professionals.]
+
 Technologies: [Power BI]
-[https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
+
+GitHub Link: [https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
 
 📚 Certifications
 
