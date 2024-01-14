@@ -23,32 +23,35 @@ Tools: Jupyter Notebooks, Excel
 
 🌐 Projects
 
-[Project Name 1]
+[Titanic-Data-Analysis]
 
-Description: [Brief overview of the project, including its goals and your role]
-Technologies: [List of technologies used]
-[Link to the GitHub repository]
+Description: [The Titanic Data Analysis project aims to uncover insights into the demographics and characteristics of passengers aboard the Titanic. The analysis covers aspects such as survival rates, passenger classes, gender distribution, and also predicted the survival rate of all passengers on board.]
+Technologies: [Python]
+[https://github.com/JohnEvansOkyere/Titanic-Data-Analysis]
 
-[Project Name 2]
+[Data Professional Survey Breakdown - Power BI Visualization]
 
-Description: [Brief overview of the project, including its goals and your role]
-Technologies: [List of technologies used]
-[Link to the GitHub repository]
+Description: [ "Data Professional Survey Breakdown" Power BI project! This visualization project provides insights into the responses gathered from data professionals.]
+Technologies: [Power BI]
+[https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
 
 📚 Certifications
 
-Managing Big Data with MySQL
-Foundation of Data Science: K-Means Clustering in Python
+1. Managing Big Data with MySQL
+2. Foundation of Data Science: K-Means Clustering in Python
 
 🌱 Learning
 Currently expanding my skills in Google Data Analytics.
+Currently Pursuing degree in Computer Science
 
-📈 GitHub Stats
 
 📫 Contact
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/feed/
+
 Twitter: [Your Twitter Handle]
-Email: [Your Email Address]
+
+Email: [okyerevansjohn@gmail.com]
+
 Feel free to explore my repositories and connect with me! I am always open to new opportunities and collaborations. 😊
 
