@@ -42,7 +42,12 @@ GitHub Link: [https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
 📚 Certifications
 
 1. Managing Big Data with MySQL
-2. Foundation of Data Science: K-Means Clustering in Python
+
+Link: https://www.coursera.org/account/accomplishments/verify/59N3F64UGBWL
+
+3. Foundation of Data Science: K-Means Clustering in Python
+
+Link: https://www.coursera.org/account/accomplishments/verify/3U85QBS2ZE3F
 
 🌱 Learning
 Currently expanding my skills in Google Data Analytics.
