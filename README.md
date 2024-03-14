@@ -39,6 +39,14 @@ Technologies: [Power BI]
 
 GitHub Link: [https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
 
+3.  [Road Accident Analysis and visualization - Excel Sheet]
+
+Description: [This analysis aims to spotlight the causes and number of casualties resulting from road accidents in the United States during the years 2021 and 2022, specifically focusing on urban areas. This endeavor serves to support road safety campaigns targeted at mitigating road accidents]
+
+Technologies: [Excel Sheet]
+
+GitHub Link: [https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown]
+
 📚 Certifications
 
 1. Managing Big Data with MySQL
