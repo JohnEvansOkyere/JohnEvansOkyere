@@ -1,6 +1,6 @@
 **JOHN EVANS OKYERE**
 
-Data Analyst | Python | SQL | Excel | PowerBI | 
+Data Analyst | Python | SQL | Excel | PowerBI | Tableau
 
 📊 About Me
 
