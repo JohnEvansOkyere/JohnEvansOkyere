@@ -39,7 +39,14 @@ Technology: Python
 
 GitHub Link: https://github.com/JohnEvansOkyere/Customer-Segmentation-Analysis
 
-3. Data Professional Survey Breakdown - Power BI Visualization
+3. Retail-Strategy-Analytics
+
+Description:  Retail Strategy Analysis repository! This project focuses on analyzing retail sales data using Quantum Data Analytics to derive actionable insights and improve business strategies. 
+Technology: Python
+
+GitHub Link: https://github.com/JohnEvansOkyere/Retail-Strategy-Analytics
+
+4. Data Professional Survey Breakdown - Power BI Visualization
 
 Description:  "Data Professional Survey Breakdown" Power BI project! This visualization project provides insights into the responses gathered from data professionals.
 
@@ -47,7 +54,7 @@ Technology: Power BI
 
 GitHub Link: https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown
 
-4.  Road Accident Analysis and visualization - Excel Sheet
+5.  Road Accident Analysis and visualization - Excel Sheet
 
 Description: This analysis aims to spotlight the causes and number of casualties resulting from road accidents in the United States during the years 2021 and 2022, specifically focusing on urban areas. This endeavor serves to support road safety campaigns targeted at mitigating road accidents
 
