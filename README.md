@@ -1,18 +1,36 @@
 **JOHN EVANS OKYERE**
 
-Data Analyst | Python | SQL | Excel | PowerBI | Tableau
+Data Science | Data Analyst 
+
+🌟 Welcome to my LinkedIn profile! 🌟
 
 📊 About Me
 
-I am a dedicated data analyst with a strong proficiency in Python, SQL, Excel, PowerBI,Tableau and a current focus on mastering Google Data Analytics. My passion lies in turning raw data into meaningful insights to drive informed decision-making. Holding certificates in "Managing Big Data with MySQL" - An online non-credit course authorized by Duke University and offered 
-through Coursera and "Foundation of Data Science: K-Means Clustering in Python," - An online non-credit course authorized by University of London, 
-Goldsmiths, University of London and offered through Coursera I bring both practical skills and a solid theoretical foundation to the table.
+Ambitious junior data scientist/analyst with a strong foundation in Machine learning, data analysis and visualization, seeking to bring value to a dynamic team.
+Although new to the field, I've developed a solid skill set through projects, online courses, and certifications.
+Proficient in Python, SQL, Excel, Tableau, and Power BI, with a proven ability to work effectively in teams.
 
 🚀 Key Skills
 
-Data Analysis: Proficient in Python, Excel, SQL, Tableau and PowerBI for comprehensive data analysis.
-Database Management: Certified in managing large datasets with MySQL.
-Data Visualization: Skilled in creating impactful visualizations to convey complex insights.
+Technical Skills
+Python: Proficient in data manipulation, visualization, and machine learning using libraries such as Pandas, NumPy, and Scikit-Learn.
+
+SQL: Experienced in querying databases, data extraction, and database management.
+
+Excel: Skilled in data cleaning, pivot tables, and creating insightful visualizations.
+
+Tableau and Power BI: Able to create interactive dashboards and reports for data analysis and storytelling.
+
+Soft Skills
+Effective team player with excellent communication and collaboration skills
+
+Strong analytical and problem-solving abilities
+
+Adaptable and eager to learn new technologies and methodologies
+
+Excellent time management and organization skills
+
+Comfortable with AI tools like ChatGPT, CoPilot.etc
 
 🛠️ Technologies
 
