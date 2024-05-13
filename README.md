@@ -10,9 +10,10 @@ Ambitious junior data scientist/analyst with a strong foundation in Machine lear
 Although new to the field, I've developed a solid skill set through projects, online courses, and certifications.
 Proficient in Python, SQL, Excel, Tableau, and Power BI, with a proven ability to work effectively in teams.
 
-🚀 Key Skills
+🚀 *Key Skills*
 
 Technical Skills
+
 Python: Proficient in data manipulation, visualization, and machine learning using libraries such as Pandas, NumPy, and Scikit-Learn.
 
 SQL: Experienced in querying databases, data extraction, and database management.
@@ -21,7 +22,8 @@ Excel: Skilled in data cleaning, pivot tables, and creating insightful visualiza
 
 Tableau and Power BI: Able to create interactive dashboards and reports for data analysis and storytelling.
 
-Soft Skills
+Soft Skills:
+
 Effective team player with excellent communication and collaboration skills
 
 Strong analytical and problem-solving abilities
