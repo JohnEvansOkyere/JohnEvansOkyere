@@ -10,7 +10,7 @@ Ambitious junior data scientist/analyst with a strong foundation in Machine lear
 Although new to the field, I've developed a solid skill set through projects, online courses, and certifications.
 Proficient in Python, SQL, Excel, Tableau, and Power BI, with a proven ability to work effectively in teams.
 
-🚀 *Key Skills*
+🚀 ***Key Skills***
 
 Technical Skills
 
