@@ -1,6 +1,6 @@
 **JOHN EVANS OKYERE**
 
-Data Science | Data Analyst 
+Data Scientist | Data Analyst 
 
 🌟 Welcome to my LinkedIn profile! 🌟
 
@@ -83,8 +83,11 @@ Technology: Excel Sheet
 GitHub Link: https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown
 
 📚 Certifications
+1. Preofessional Google Data Analytics
 
-1. Managing Big Data with MySQL
+ Link: https://www.coursera.org/account/accomplishments/professional-cert/YB24AHGM3SS4
+
+2. Managing Big Data with MySQL
 
 Link: https://www.coursera.org/account/accomplishments/verify/59N3F64UGBWL
 
@@ -93,7 +96,6 @@ Link: https://www.coursera.org/account/accomplishments/verify/59N3F64UGBWL
 Link: https://www.coursera.org/account/accomplishments/verify/3U85QBS2ZE3F
 
 🌱 Learning
-Currently expanding my skills in Google Data Analytics.
 Currently Pursuing degree in Computer Science
 
 
@@ -102,7 +104,7 @@ Currently Pursuing degree in Computer Science
 LinkedIn: https://www.linkedin.com/feed/
 
 
-Email: okyerevansjohn@gmail.com
+Email: johnevansokyere@gmail.com
 
 Feel free to explore my repositories and connect with me! I am always open to new opportunities and collaborations. 😊
 
