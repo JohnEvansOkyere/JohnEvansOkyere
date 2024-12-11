@@ -1,6 +1,6 @@
 **JOHN EVANS OKYERE**
 
-Data Scientist | Data Analyst 
+Data Scientist | Data Analyst | Cloud 
 
 🌟 Welcome to my LinkedIn profile! 🌟
 
