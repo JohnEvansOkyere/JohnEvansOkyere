@@ -1,28 +1,31 @@
-**JOHN EVANS OKYERE**
+## John Evans Okyere
+### Data Scientist | Machine Learning Engineer | Cloud Enthusiast
 
-Data Scientist | Data Analyst | Cloud 
+🌟 Welcome to my GitHub profile! 🌟
 
-🌟 Welcome to my LinkedIn profile! 🌟
+## 📊 About Me
+I am a passionate and results-driven Data Scientist and Machine Learning Engineer with expertise in building predictive models, deploying AI-powered applications, and deriving actionable insights from data. Proficient in Python, SQL, Tableau, and Flask, I specialize in machine learning, deep learning, and natural language processing. I am always eager to learn and apply new technologies to solve real-world problems.
 
-📊 About Me
+## 🚀 Key Skills
+### Technical Skills
 
-Ambitious junior data scientist/analyst with a strong foundation in Machine learning, data analysis and visualization, seeking to bring value to a dynamic team.
-Although new to the field, I've developed a solid skill set through projects, online courses, and certifications.
-Proficient in Python, SQL, Excel, Tableau, and Power BI, with a proven ability to work effectively in teams.
+Programming: Python, SQL
 
-🚀 ***Key Skills***
+Machine Learning: XGBoost, Random Forest, Decision Trees, Linear/Logistic Regression, K-Means Clustering
 
-Technical Skills
+Deep Learning: PyTorch, LangChain, Ollama (DeepSeek-R1:14b)
 
-Python: Proficient in data manipulation, visualization, and machine learning using libraries such as Pandas, NumPy, and Scikit-Learn.
+NLP & Chatbots: Dialogflow, FastAPI, RAG (Retrieval-Augmented Generation)
 
-SQL: Experienced in querying databases, data extraction, and database management.
+Web Development: Flask, Streamlit, FastAPI, HTML, CSS
 
-Excel: Skilled in data cleaning, pivot tables, and creating insightful visualizations.
+Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
-Tableau and Power BI: Able to create interactive dashboards and reports for data analysis and storytelling.
+Cloud Computing: AWS
 
-Soft Skills:
+Databases: MySQL, SQLite
+
+### Soft Skills
 
 Effective team player with excellent communication and collaboration skills
 
@@ -30,81 +33,97 @@ Strong analytical and problem-solving abilities
 
 Adaptable and eager to learn new technologies and methodologies
 
-Excellent time management and organization skills
+Comfortable with AI tools like ChatGPT, CoPilot, etc.
 
-Comfortable with AI tools like ChatGPT, CoPilot.etc
+### 🌐 Projects
 
-🛠️ Technologies
+#### Machine Learning & AI Applications
 
-Languages: Python, SQL
-Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
-Databases: MySQL, SQLite
-Tools: Jupyter Notebooks, Excel
+RAG Application (LangChain, Ollama, DeepSeek-R1:14b)
 
-🌐 Projects
+Built a Retrieval-Augmented Generation (RAG) application that interacts with PDF documents, enabling users to extract and query information seamlessly.
 
-1. Titanic-Data-Analysis
+Tech Stack: Python, LangChain, Ollama, DeepSeek-R1:14b
 
-Description: The Titanic Data Analysis project aims to uncover insights into the demographics and characteristics of passengers aboard the Titanic. The analysis covers aspects such as survival rates, passenger classes, gender distribution, and also predicted the survival rate of all passengers on board.
+Personal Appointment Booking Chatbot (Dialogflow, FastAPI)
 
-Technology: Python
+Developed a chatbot for scheduling appointments, integrated with a FastAPI backend for seamless user interactions.
 
-GitHub Link:https://github.com/JohnEvansOkyere/Titanic-Data-Analysis
+Tech Stack: Dialogflow, FastAPI
 
-2 Customer-Segmentation-Analysis
+Food Ordering & Tracking Chatbot (Dialogflow, FastAPI)
 
-Description: Customer segmentation is a crucial aspect of marketing strategy, allowing businesses to identify distinct groups of customers with similar characteristics and behaviors. By segmenting customers, businesses can personalize their marketing efforts, improve customer satisfaction, and maximize profitability
+Created a chatbot for food ordering and real-time tracking, powered by Dialogflow and a FastAPI backend.
 
-Technology: Python
+Tech Stack: Dialogflow, FastAPI
 
-GitHub Link: https://github.com/JohnEvansOkyere/Customer-Segmentation-Analysis
+E-commerce Churn Prediction App (Streamlit)
 
-3. Retail-Strategy-Analytics
+Developed an app using XGBoost to predict customer churn, providing actionable insights for retention strategies.
 
-Description:  Retail Strategy Analysis repository! This project focuses on analyzing retail sales data using Quantum Data Analytics to derive actionable insights and improve business strategies. 
-Technology: Python
+Tech Stack: Python, Streamlit, XGBoost
 
-GitHub Link: https://github.com/JohnEvansOkyere/Retail-Strategy-Analytics
+Heart Disease Prediction App (Flask)
 
-4. Data Professional Survey Breakdown - Power BI Visualization
+Built a web app using Random Forest to assess heart disease risk.
 
-Description:  "Data Professional Survey Breakdown" Power BI project! This visualization project provides insights into the responses gathered from data professionals.
+Tech Stack: Python, Flask, Random Forest
 
-Technology: Power BI
+Data Analytics & Visualization
+Titanic Data Analysis
 
-GitHub Link: https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown
+Analyzed Titanic passenger data to uncover insights into survival rates, demographics, and characteristics.
 
-5.  Road Accident Analysis and visualization - Excel Sheet
+Tech Stack: Python
 
-Description: This analysis aims to spotlight the causes and number of casualties resulting from road accidents in the United States during the years 2021 and 2022, specifically focusing on urban areas. This endeavor serves to support road safety campaigns targeted at mitigating road accidents
+Customer Segmentation Analysis
 
-Technology: Excel Sheet
+Applied K-Means clustering to segment customers based on purchasing behavior, enabling targeted marketing campaigns.
 
-GitHub Link: https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown
+Tech Stack: Python
+
+Retail Strategy Analytics
+
+Analyzed retail sales data to identify patterns, improve pricing strategies, and optimize inventory management.
+
+Tech Stack: Python
+
+Data Professional Survey Breakdown - Power BI Visualization
+
+Created interactive dashboards to visualize insights from a survey of data professionals.
+
+Tech Stack: Power BI
+
+Road Accident Analysis - Excel
+
+Conducted root cause analysis and trend identification for road accidents, providing actionable insights for policy-making.
+
+Tech Stack: Excel
 
 📚 Certifications
-1. Preofessional Google Data Analytics
+Google Data Analytics Professional Certificate – Coursera
+Link
 
- Link: https://www.coursera.org/account/accomplishments/professional-cert/YB24AHGM3SS4
+Managing Big Data with MySQL – Duke University, Coursera
+Link
 
-2. Managing Big Data with MySQL
+AWS Cloud Practitioner Essentials – AWS
 
-Link: https://www.coursera.org/account/accomplishments/verify/59N3F64UGBWL
+Foundations of Data Science: K-Means Clustering in Python – University of London, Coursera
+Link
 
-3. Foundation of Data Science: K-Means Clustering in Python
+🌱 Currently Learning
+Deep Learning with PyTorch
 
-Link: https://www.coursera.org/account/accomplishments/verify/3U85QBS2ZE3F
-
-🌱 Learning
-Currently Pursuing degree in Computer Science
-
+Advanced NLP techniques
 
 📫 Contact
-
-LinkedIn: https://www.linkedin.com/feed/
-
+LinkedIn: linkedin.com/in/john-evans-okyere-4a1480214
 
 Email: johnevansokyere@gmail.com
 
+Phone Number: +233544954643
+
 Feel free to explore my repositories and connect with me! I am always open to new opportunities and collaborations. 😊
 
+Fun Fact: When I'm not busy cleaning data, analyzing trends, or building models, you'll likely find me exploring nature, taking long walks, and marveling at the beauty of God's creation.
