@@ -1,12 +1,12 @@
-# 👋 Hi, I’m John Evans Okyere
+#  Hi, I’m John Evans Okyere
 
 ### Data Scientist | Machine Learning Engineer | n8n Automation Specialist | Cloud & AI Enthusiast
 
-🌟 Welcome to my GitHub! 🌟
+Welcome to my GitHub! 
 
 ---
 
-## 📊 About Me
+## About Me
 
 I’m a **results-driven Data Scientist & Machine Learning Engineer** who turns data into actionable insights and production-ready AI solutions. My expertise spans:
 
@@ -24,7 +24,7 @@ I thrive at the intersection of **analytics, AI, and automation**, solving real-
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 
 * **Production-Ready RAG Application** – Query PDFs with LangChain, Ollama, and DeepSeek-R1:14b
 * **E-commerce Churn Prediction App** – Customer retention insights using XGBoost
@@ -36,7 +36,7 @@ I thrive at the intersection of **analytics, AI, and automation**, solving real-
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
 * Google Data Analytics – Coursera
 * AWS Cloud Practitioner Essentials – AWS
@@ -46,7 +46,7 @@ I thrive at the intersection of **analytics, AI, and automation**, solving real-
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * Advanced **Deep Learning with PyTorch**
 * Natural Language Processing & **RAG (Retrieval-Augmented Generation)**
@@ -55,12 +55,12 @@ I thrive at the intersection of **analytics, AI, and automation**, solving real-
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 * LinkedIn: [linkedin.com/in/john-evans-okyere-4a1480214](https://linkedin.com/in/john-evans-okyere-4a1480214)
 * Email: [johnevansokyere@gmail.com](mailto:johnevansokyere@gmail.com)
 * Phone: +233 544954643
 
-✨ Explore my repositories — I’m always open to **collaborations, freelance projects, and AI-driven challenges**.
+Explore my repositories — I’m always open to **collaborations, freelance projects, and AI-driven challenges**.
 
 
