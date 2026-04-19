@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm the **Founder & CEO of [Veloxa Technology Ltd](https://github.com/veloxa)** (also operating as **VexaAI**) — an AI and automation agency based in Accra, Ghana. I build and deploy production-grade AI systems for real businesses, with a focus on practical, revenue-generating automation.
+I'm the **Founder & CEO of [Veloxa Technology Ltd](https://github.com/veloxa)** — an AI and automation agency based in Accra, Ghana. I build and deploy production-grade AI systems for real businesses, with a focus on practical, revenue-generating automation.
 
 My work spans the full stack: from **n8n workflow automation** and **WhatsApp/Telegram AI chatbots** to **RAG systems**, **MLOps pipelines**, and **full-stack AI applications**. I'm especially focused on building solutions that work in the African business context — cost-effective, reliable, and client-ready.
 
